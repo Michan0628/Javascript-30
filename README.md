@@ -34,7 +34,7 @@ The starter files can be found [here](https://github.com/wesbos/JavaScript30).
 22. Follow Along Link Highlighter
 23. Speech Synthesis
 24. Sticky Nav
-25. Event Capture, Propagation, Bubbling, and Once
+25. [Event Capture, Propagation, Bubbling, and Once](https://github.com/Michan0628/Javascript-30/tree/master/25-Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once)
 26. Stripe Follow Along Nav
 27. Click and Drag
 28. Video Speed Controller
