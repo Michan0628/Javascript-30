@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Understanding JavaScript's Capture</title>
+</head>
+<body class="bod">
+
+  <div class="one">
+    <div class="two">
+      <div class="three">
+      </div>
+    </div>
+  </div>
+
+<style>
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after { 
+    box-sizing: inherit; 
+  }
+
+  div {
+    width: 100%;
+    padding: 100px;
+  }
+
+  .one {
+    background: thistle;
+  }
+
+  .two {
+    background: mistyrose;
+  }
+
+  .three {
+    background: coral;
+  }
+</style>
+
+<button></button>
+<script>
+
+// select all the divs
+
+const divs = document.querySelectorAll('div');
+
+// handle click to log class name
+// I was trying to use arrow function, but 'an arrow function does not have its own this' by MDN
+
+function logName(e){
+    console.log(this.classList.value)
+    // e.stopPropagation();
+}
+
+// add click event listner on every div
+
+// divs.forEach( div => {
+//     div.addEventListener('click', logName)
+// })
+
+// It will log out from inner child to outer parent
+
+// Capture ture will run logName from Top to the bottom
+// divs.forEach( div =>{
+//     div.addEventListener('click', logName, {capture: true})
+// })
+
+// Once will remove event listener after the event fired
+
+divs.forEach( div =>{
+    div.addEventListener('click', logName, {
+        capture: false,
+        once: true
+        })
+})
+
+</script>
+</body>
+</html>

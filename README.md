@@ -1,6 +1,6 @@
 # Javascript 30
 
-## what is Javascript 30
+## What is Javascript 30
 
 JavaScript 30 is a course made by [Wes Bos](https://javascript30.com). This course provide 30 free videos and starter files for people who want to become comfortable with Javascript fundamentals and DOM. This course needs no frameworks, no compilers, no libraries or boiler plate.
 
