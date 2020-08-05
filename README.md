@@ -13,7 +13,7 @@ The starter files can be found [here](https://github.com/wesbos/JavaScript30).
 1. JavaScript Drum Kit
 2. JS + CSS Clock
 3. CSS Variables
-4. Array Cardio, Day 1
+4. [Array Cardio, Day 1](https://github.com/Michan0628/Javascript-30/tree/master/04-Array%20Cardio%20Day%201)
 5. Flex Panel Gallery
 6. Type Ahead
 7. Array Cardio, Day 2
