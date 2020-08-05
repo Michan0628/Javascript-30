@@ -52,15 +52,19 @@ const numbers = [0, 1, 2, 3]
 const sumOfNumbers.reduce((accumulator, currentItem)=>(
     accumulator + currentItem)
     , 0)
+// Result:
+// 6
 ```
 
 ### Sum of values in an object array
 
 ```javascript
-const people = [{name:'Baekhyun',age:28},{name:'Chan',age:24},{name:'Subin',age:21} ]
+const people = [{name:'Baekhyun', age:28},{name:'Chan', age:24},{name:'Subin', age:21} ]
 const sumOfAge.reduce((accumulator, currentItem)=>(
     accumulator + currentItem.age)
     , 0)
+// Result:
+// 73
 ```
 
 ### Counting number of items in an object
@@ -76,4 +80,6 @@ const transportation = data.reduce((object, item)=>{
     }
     return object
 }, { })
+// Result:
+// {car: 5, truck: 3, bike: 2, walk: 2, van: 2}
 ```
