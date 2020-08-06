@@ -10,7 +10,15 @@ This repository contains my notes for the course.
 The starter files can be found [here](https://github.com/wesbos/JavaScript30).
 ## Table of Contents
 
-1. JavaScript Drum Kit
+
+Day | Name | Link
+---------|----------|---------
+ 04 | Array Cardio, Day 1 | [Note](https://github.com/Michan0628/Javascript-30/tree/master/04-Array%20Cardio%20Day%201)
+ 07 | Array Cardio, Day 2 | [Note](https://github.com/Michan0628/Javascript-30/tree/master/04-Array%20Cardio%20Day%201)
+ 25 | Event Capture, Propagation, Bubbling, and Once | [Note](https://github.com/Michan0628/Javascript-30/tree/master/25-Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once)
+
+ 
+<!-- 1. JavaScript Drum Kit
 2. JS + CSS Clock
 3. CSS Variables
 4. [Array Cardio, Day 1](https://github.com/Michan0628/Javascript-30/tree/master/04-Array%20Cardio%20Day%201)
@@ -39,5 +47,5 @@ The starter files can be found [here](https://github.com/wesbos/JavaScript30).
 27. Click and Drag
 28. Video Speed Controller
 29. Countdown Timer
-30. Whack A Mole
+30. Whack A Mole -->
 
