@@ -16,7 +16,7 @@ The starter files can be found [here](https://github.com/wesbos/JavaScript30).
 4. [Array Cardio, Day 1](https://github.com/Michan0628/Javascript-30/tree/master/04-Array%20Cardio%20Day%201)
 5. Flex Panel Gallery
 6. Type Ahead
-7. Array Cardio, Day 2
+7. [Array Cardio, Day 2](https://github.com/Michan0628/Javascript-30/tree/master/07-Array%20Cardio%20Day%202)
 8. Fun with HTML5 Canvas
 9. Dev Tools Domination
 10. Hold Shift and Check Checkboxes
