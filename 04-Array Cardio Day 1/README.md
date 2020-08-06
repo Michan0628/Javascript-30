@@ -1,4 +1,4 @@
-# Arrary Cardio Day 1
+# Array Cardio Day 1
 
 ## [Array.prototype.sort()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 
