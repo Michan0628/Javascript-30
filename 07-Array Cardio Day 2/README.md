@@ -1,4 +1,4 @@
-# Array Cardio Day 1
+# Array Cardio Day 2
 
 ## Array.prototype.find()
 Array.find() can take in a callback function, it will return the **value** of the **first** element that satisfies the provided callback fuction in the provided array.
