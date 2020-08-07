@@ -15,7 +15,9 @@ Day | Name | Link
 ---------|----------|---------
  04 | Array Cardio, Day 1 | [Note](https://github.com/Michan0628/Javascript-30/tree/master/04-Array%20Cardio%20Day%201)
  07 | Array Cardio, Day 2 | [Note](https://github.com/Michan0628/Javascript-30/tree/master/07-Array%20Cardio%20Day%202)
+ 11 | Custom HTML5 Video Player | [Note](https://github.com/Michan0628/Javascript-30/tree/master/11-Custom%20html5%20video%20player)
  25 | Event Capture, Propagation, Bubbling, and Once | [Note](https://github.com/Michan0628/Javascript-30/tree/master/25-Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once)
+ 
 
 
 <!-- 1. JavaScript Drum Kit

@@ -6,13 +6,13 @@ How to toggle an element into full screen and exit full screen? We can use the f
 
 ### Fullscreen API
 
-- element.requestFullscreen(  ): place the element into full screen mode.
+- **element.requestFullscreen(  )**: place the element into full screen mode.
 
-- document.exitFullscreen(  ): switch from full screen mode back to window mode.
+- **document.exitFullscreen(  )**: switch from full screen mode back to window mode.
 
-- document.fullscreenElement property tells you if the element is in full screen mode.
+- **document.fullscreenElement** property tells you if the element is in full screen mode.
 
-- fullscreenchange: fire when it transition into or out of full-screen mode.
+- **fullscreenchange**: this event fires when it transition into or out of full-screen mode.
 
 ### Example
 
